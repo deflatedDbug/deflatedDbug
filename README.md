@@ -1,6 +1,6 @@
 ### <h1 align="center"> Hi 👋, I'm Subin </h1>
 
-<p align="center"> <strong>A Software Engineer and aspiring Startup-Entrepreneur</strong> </p>
+<p align="center"> <strong>A Software Engineer and Aspiring Startup-Entrepreneur</strong> </p>
 <!--
 **deflatedDbug/deflatedDbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
